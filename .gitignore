@@ -1,0 +1,27 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.vspx
+*.vspscc
+*.vssscc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.pidb
+*.booproj
